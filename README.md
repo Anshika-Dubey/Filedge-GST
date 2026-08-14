@@ -56,7 +56,6 @@ A blank input template is provided in the repository as:
 
 `input_template.xlsx`
 
-> **Important:** Never upload real GST Portal credentials or confidential client information to a public repository.
 
 ## Output
 
