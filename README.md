@@ -92,13 +92,18 @@ If the automation is stopped or interrupted, the application saves the current p
 ```bash
 git clone https://github.com/Anshika-Dubey/GSTScope.git
 cd GSTScope
+```
 
 ### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the application
 
 ```bash
 python gst_checker.py
+```
+
+The GSTScope web interface will be available through the local browser application.
