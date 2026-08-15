@@ -282,19 +282,19 @@ Screenshots of the application interface and generated reports will be added her
 
 ### Dashboard
 
-![Filedge GST Dashboard](screenshots/dashboard.png)
+![Filedge GST Dashboard](Screenshots/dashboard.png)
 
 ### Processing
 
-![Filedge GST Processing](screenshots/processing.png)
+![Filedge GST Processing](Screenshots/processing.png)
 
 ### Results
 
-![Filedge GST Results](screenshots/results.png)
+![Filedge GST Results](Screenshots/results.png)
 
 ### Generated Excel Report
 
-![Filedge GST Excel Report](screenshots/report.png)
+![Filedge GST Excel Report](Screenshots/results.png)
 
 ---
 
