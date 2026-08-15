@@ -294,7 +294,7 @@ Screenshots of the application interface and generated reports will be added her
 
 ### Generated Excel Report
 
-![Filedge GST Excel Report](Screenshots/results.png)
+![Filedge GST Excel Report](Screenshots/report.png)
 
 ---
 
