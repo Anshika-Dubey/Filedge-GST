@@ -106,4 +106,4 @@ pip install -r requirements.txt
 python gst_checker.py
 ```
 
-The GSTScope web interface will be available through the local browser application.
+The GSTScope application will start locally and open the web interface in your browser.
